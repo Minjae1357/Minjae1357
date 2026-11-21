@@ -32,7 +32,7 @@ Java · Spring Boot로 팀 프로젝트 세 개를 진행하며 회원 인증, �
 #### ✈️ [TripFinder](https://github.com/Minjae1357/TripFinder) · 2026.08 ~ 09 · 3인 팀
 여행 추천 커뮤니티 · **로그인·보안·게시판 담당** ([프론트엔드](https://github.com/Minjae1357/React-TripFinder))
 - Spring Security + JWT 로그인, Refresh Token은 HttpOnly 쿠키로 발급
-- 이메일 인증 회원가입(6자리 코드를 Redis에 5분 저장), 네이버 소셜 로그인
+- 이메일 인증 회원가입(6자리 코드를 Redis에 5분 저장), 카카오·구글·네이버 소셜 로그인
 - 게시판(대댓글·좋아요·이미지 업로드·작성자/관리자 권한)과 React 로그인·게시판 화면
 
 `Spring Boot` `Spring Security` `JPA` `MySQL` `Redis` `React`
